@@ -46,7 +46,7 @@
     "sequelize": "^6.3.5",
     "sequelize-cli": "^6.2.0",
     "validator": "^10.9.0",
-    "winston": "^2.4.3"
+    "winston": "^3.3.3"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=production run-p start:*",
